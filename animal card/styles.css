@@ -1,0 +1,37 @@
+/*设置字体*/
+h3 {
+	font-weight: bold;
+	margin-top: 0px;
+}
+p{
+	font-style: italic;
+}
+span {
+	font-weight: bold;
+}
+/*设置样式*/
+img{
+	width: 300px;
+	border-radius: 15px;
+}
+ul {
+	list-style: none;
+	padding:0px;
+}
+.wrapper {
+	border: 1px solid #cecece;
+	width: 300px;
+	padding: 19px;
+	box-shadow: 8px 8px 6px #e6e6e6;
+	padding-right: 10px;
+	padding-left: 10px;
+	border-radius: 15px;
+}
+.container {
+	border: 1px solid #cecece;
+	padding: 16px;
+	margin-top: 15px
+	
+
+
+}
